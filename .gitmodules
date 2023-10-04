@@ -1,3 +1,6 @@
 [submodule "workspace/src/rosbridge_suite"]
 	path = workspace/src/rosbridge_suite
 	url = https://github.com/RobotWebTools/rosbridge_suite.git
+[submodule "workspace/src/usb_cam"]
+	path = workspace/src/usb_cam
+	url = https://github.com/ros-drivers/usb_cam.git

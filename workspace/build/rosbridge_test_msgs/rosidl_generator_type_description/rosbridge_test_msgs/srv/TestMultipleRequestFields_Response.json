@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "rosbridge_test_msgs/srv/TestMultipleRequestFields_Response",
+      "fields": [
+        {
+          "name": "structure_needs_at_least_one_member",
+          "type": {
+            "type_id": 3,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "rosbridge_test_msgs/srv/TestMultipleRequestFields_Response",
+      "hash_string": "RIHS01_9178629844636600e65fdf8bb3f3701ae83913490d0f6492eca46a7160adae9e"
+    }
+  ]
+}

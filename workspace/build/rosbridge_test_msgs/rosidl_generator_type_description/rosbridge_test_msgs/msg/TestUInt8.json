@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "rosbridge_test_msgs/msg/TestUInt8",
+      "fields": [
+        {
+          "name": "data",
+          "type": {
+            "type_id": 147,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "rosbridge_test_msgs/msg/TestUInt8",
+      "hash_string": "RIHS01_ac9de73b263a86296d8b65f8a439d99fb8388392a0b1ca4c2ab101e45ccf349c"
+    }
+  ]
+}

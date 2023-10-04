@@ -1,0 +1,1 @@
+Invoking command in '/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs': CMAKE_PREFIX_PATH=/opt/ros/iron /home/jason/.local/bin/cmake /home/jason/Desktop/STUDY/ART-Driver/workspace/src/rosbridge_suite/rosapi_msgs -DCMAKE_INSTALL_PREFIX=/home/jason/Desktop/STUDY/ART-Driver/workspace/install/rosapi_msgs

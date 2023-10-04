@@ -11,7 +11,6 @@ setup(
             ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
         ('share/' + package_name, ['remoteop.launch.py']),
-        ('share/' + package_name, ['remoteop.cone.launch.py']),
     ],
     install_requires=['setuptools'],
     zip_safe=True,

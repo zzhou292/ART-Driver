@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "rosbridge_test_msgs/msg/TestFloat32BoundedArray",
+      "fields": [
+        {
+          "name": "data",
+          "type": {
+            "type_id": 58,
+            "capacity": 16,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "rosbridge_test_msgs/msg/TestFloat32BoundedArray",
+      "hash_string": "RIHS01_41d7025c5dfef4596353913ee01f97be38b07750e52f818b27ef2fc852314382"
+    }
+  ]
+}

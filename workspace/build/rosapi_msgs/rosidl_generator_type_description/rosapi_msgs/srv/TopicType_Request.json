@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "rosapi_msgs/srv/TopicType_Request",
+      "fields": [
+        {
+          "name": "topic",
+          "type": {
+            "type_id": 17,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "rosapi_msgs/srv/TopicType_Request",
+      "hash_string": "RIHS01_7886385294647d0ab0aeba48e41e571fa770eccbaed858b2ba8632edaef29844"
+    }
+  ]
+}

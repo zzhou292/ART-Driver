@@ -1,0 +1,34 @@
+[1.583s] Invoking command in '/home/jason/Desktop/STUDY/ART-Driver/workspace/src/tcp_cam_sender': PYTHONPATH=/home/jason/Desktop/STUDY/ART-Driver/workspace/build/tcp_cam_sender/prefix_override:/home/jason/Desktop/STUDY/ART-Driver/workspace/install/tcp_cam_sender/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/tcp_cam_sender build --build-base /home/jason/Desktop/STUDY/ART-Driver/workspace/build/tcp_cam_sender/build install --record /home/jason/Desktop/STUDY/ART-Driver/workspace/build/tcp_cam_sender/install.log --single-version-externally-managed
+[1.815s] running egg_info
+[1.831s] writing ../../build/tcp_cam_sender/tcp_cam_sender.egg-info/PKG-INFO
+[1.831s] writing dependency_links to ../../build/tcp_cam_sender/tcp_cam_sender.egg-info/dependency_links.txt
+[1.831s] writing entry points to ../../build/tcp_cam_sender/tcp_cam_sender.egg-info/entry_points.txt
+[1.831s] writing requirements to ../../build/tcp_cam_sender/tcp_cam_sender.egg-info/requires.txt
+[1.832s] writing top-level names to ../../build/tcp_cam_sender/tcp_cam_sender.egg-info/top_level.txt
+[1.869s] reading manifest file '../../build/tcp_cam_sender/tcp_cam_sender.egg-info/SOURCES.txt'
+[1.869s] writing manifest file '../../build/tcp_cam_sender/tcp_cam_sender.egg-info/SOURCES.txt'
+[1.869s] running build
+[1.870s] running build_py
+[1.870s] running install
+[1.870s] /home/jason/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[1.870s] !!
+[1.870s] 
+[1.870s]         ********************************************************************************
+[1.870s]         Please avoid running ``setup.py`` directly.
+[1.870s]         Instead, use pypa/build, pypa/installer or other
+[1.871s]         standards-based tools.
+[1.871s] 
+[1.871s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[1.871s]         ********************************************************************************
+[1.871s] 
+[1.871s] !!
+[1.871s]   self.initialize_options()
+[1.875s] running install_lib
+[1.892s] running install_data
+[1.909s] running install_egg_info
+[1.935s] removing '/home/jason/Desktop/STUDY/ART-Driver/workspace/install/tcp_cam_sender/lib/python3.10/site-packages/tcp_cam_sender-0.0.0-py3.10.egg-info' (and everything under it)
+[1.936s] Copying ../../build/tcp_cam_sender/tcp_cam_sender.egg-info to /home/jason/Desktop/STUDY/ART-Driver/workspace/install/tcp_cam_sender/lib/python3.10/site-packages/tcp_cam_sender-0.0.0-py3.10.egg-info
+[1.936s] running install_scripts
+[2.083s] Installing tcp_cam_sender script to /home/jason/Desktop/STUDY/ART-Driver/workspace/install/tcp_cam_sender/lib/tcp_cam_sender
+[2.083s] writing list of installed files to '/home/jason/Desktop/STUDY/ART-Driver/workspace/build/tcp_cam_sender/install.log'
+[2.309s] Invoked command in '/home/jason/Desktop/STUDY/ART-Driver/workspace/src/tcp_cam_sender' returned '0': PYTHONPATH=/home/jason/Desktop/STUDY/ART-Driver/workspace/build/tcp_cam_sender/prefix_override:/home/jason/Desktop/STUDY/ART-Driver/workspace/install/tcp_cam_sender/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/tcp_cam_sender build --build-base /home/jason/Desktop/STUDY/ART-Driver/workspace/build/tcp_cam_sender/build install --record /home/jason/Desktop/STUDY/ART-Driver/workspace/build/tcp_cam_sender/install.log --single-version-externally-managed

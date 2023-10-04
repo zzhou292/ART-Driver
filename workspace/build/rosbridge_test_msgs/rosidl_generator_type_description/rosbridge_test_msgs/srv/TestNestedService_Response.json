@@ -1,0 +1,46 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "rosbridge_test_msgs/srv/TestNestedService_Response",
+      "fields": [
+        {
+          "name": "data",
+          "type": {
+            "type_id": 1,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": "std_msgs/msg/Float64"
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": [
+      {
+        "type_name": "std_msgs/msg/Float64",
+        "fields": [
+          {
+            "name": "data",
+            "type": {
+              "type_id": 11,
+              "capacity": 0,
+              "string_capacity": 0,
+              "nested_type_name": ""
+            },
+            "default_value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "type_hashes": [
+    {
+      "type_name": "rosbridge_test_msgs/srv/TestNestedService_Response",
+      "hash_string": "RIHS01_47b33b7bdc24e4575ac4d39b41a9519d5568152e66df3212f6d3779b379d8627"
+    },
+    {
+      "type_name": "std_msgs/msg/Float64",
+      "hash_string": "RIHS01_705ba9c3d1a09df43737eb67095534de36fd426c0587779bda2bc51fe790182a"
+    }
+  ]
+}

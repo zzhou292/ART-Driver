@@ -1,0 +1,34 @@
+[1.562s] Invoking command in '/home/jason/Desktop/STUDY/ART-Driver/workspace/src/udp_to_ros': PYTHONPATH=/home/jason/Desktop/STUDY/ART-Driver/workspace/build/udp_to_ros/prefix_override:/home/jason/Desktop/STUDY/ART-Driver/workspace/install/udp_to_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/udp_to_ros build --build-base /home/jason/Desktop/STUDY/ART-Driver/workspace/build/udp_to_ros/build install --record /home/jason/Desktop/STUDY/ART-Driver/workspace/build/udp_to_ros/install.log --single-version-externally-managed
+[1.786s] running egg_info
+[1.802s] writing ../../build/udp_to_ros/udp_to_ros.egg-info/PKG-INFO
+[1.802s] writing dependency_links to ../../build/udp_to_ros/udp_to_ros.egg-info/dependency_links.txt
+[1.802s] writing entry points to ../../build/udp_to_ros/udp_to_ros.egg-info/entry_points.txt
+[1.803s] writing requirements to ../../build/udp_to_ros/udp_to_ros.egg-info/requires.txt
+[1.803s] writing top-level names to ../../build/udp_to_ros/udp_to_ros.egg-info/top_level.txt
+[1.837s] reading manifest file '../../build/udp_to_ros/udp_to_ros.egg-info/SOURCES.txt'
+[1.838s] writing manifest file '../../build/udp_to_ros/udp_to_ros.egg-info/SOURCES.txt'
+[1.838s] running build
+[1.839s] running build_py
+[1.839s] running install
+[1.839s] /home/jason/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[1.839s] !!
+[1.839s] 
+[1.839s]         ********************************************************************************
+[1.839s]         Please avoid running ``setup.py`` directly.
+[1.840s]         Instead, use pypa/build, pypa/installer or other
+[1.840s]         standards-based tools.
+[1.840s] 
+[1.840s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[1.840s]         ********************************************************************************
+[1.840s] 
+[1.840s] !!
+[1.840s]   self.initialize_options()
+[1.845s] running install_lib
+[1.865s] running install_data
+[1.881s] running install_egg_info
+[1.898s] removing '/home/jason/Desktop/STUDY/ART-Driver/workspace/install/udp_to_ros/lib/python3.10/site-packages/udp_to_ros-0.0.0-py3.10.egg-info' (and everything under it)
+[1.898s] Copying ../../build/udp_to_ros/udp_to_ros.egg-info to /home/jason/Desktop/STUDY/ART-Driver/workspace/install/udp_to_ros/lib/python3.10/site-packages/udp_to_ros-0.0.0-py3.10.egg-info
+[1.899s] running install_scripts
+[2.040s] Installing udp_listener script to /home/jason/Desktop/STUDY/ART-Driver/workspace/install/udp_to_ros/lib/udp_to_ros
+[2.041s] writing list of installed files to '/home/jason/Desktop/STUDY/ART-Driver/workspace/build/udp_to_ros/install.log'
+[2.126s] Invoked command in '/home/jason/Desktop/STUDY/ART-Driver/workspace/src/udp_to_ros' returned '0': PYTHONPATH=/home/jason/Desktop/STUDY/ART-Driver/workspace/build/udp_to_ros/prefix_override:/home/jason/Desktop/STUDY/ART-Driver/workspace/install/udp_to_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/udp_to_ros build --build-base /home/jason/Desktop/STUDY/ART-Driver/workspace/build/udp_to_ros/build install --record /home/jason/Desktop/STUDY/ART-Driver/workspace/build/udp_to_ros/install.log --single-version-externally-managed

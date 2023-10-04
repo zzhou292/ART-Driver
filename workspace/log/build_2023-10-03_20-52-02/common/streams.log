@@ -1,0 +1,32 @@
+[1.649s] Invoking command in '/home/jason/Desktop/STUDY/ART-Driver/workspace/src/common': PYTHONPATH=/home/jason/Desktop/STUDY/ART-Driver/workspace/build/common/prefix_override:/home/jason/Desktop/STUDY/ART-Driver/workspace/install/common/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/common build --build-base /home/jason/Desktop/STUDY/ART-Driver/workspace/build/common/build install --record /home/jason/Desktop/STUDY/ART-Driver/workspace/build/common/install.log --single-version-externally-managed
+[1.862s] running egg_info
+[1.879s] writing ../../build/common/common.egg-info/PKG-INFO
+[1.879s] writing dependency_links to ../../build/common/common.egg-info/dependency_links.txt
+[1.879s] writing requirements to ../../build/common/common.egg-info/requires.txt
+[1.880s] writing top-level names to ../../build/common/common.egg-info/top_level.txt
+[1.914s] reading manifest file '../../build/common/common.egg-info/SOURCES.txt'
+[1.915s] writing manifest file '../../build/common/common.egg-info/SOURCES.txt'
+[1.915s] running build
+[1.915s] running build_py
+[1.915s] running install
+[1.915s] /home/jason/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[1.915s] !!
+[1.915s] 
+[1.915s]         ********************************************************************************
+[1.915s]         Please avoid running ``setup.py`` directly.
+[1.915s]         Instead, use pypa/build, pypa/installer or other
+[1.916s]         standards-based tools.
+[1.916s] 
+[1.916s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[1.916s]         ********************************************************************************
+[1.916s] 
+[1.916s] !!
+[1.916s]   self.initialize_options()
+[1.920s] running install_lib
+[1.937s] running install_data
+[1.954s] running install_egg_info
+[1.971s] removing '/home/jason/Desktop/STUDY/ART-Driver/workspace/install/common/lib/python3.10/site-packages/common-0.0.0-py3.10.egg-info' (and everything under it)
+[1.971s] Copying ../../build/common/common.egg-info to /home/jason/Desktop/STUDY/ART-Driver/workspace/install/common/lib/python3.10/site-packages/common-0.0.0-py3.10.egg-info
+[1.972s] running install_scripts
+[2.141s] writing list of installed files to '/home/jason/Desktop/STUDY/ART-Driver/workspace/build/common/install.log'
+[2.232s] Invoked command in '/home/jason/Desktop/STUDY/ART-Driver/workspace/src/common' returned '0': PYTHONPATH=/home/jason/Desktop/STUDY/ART-Driver/workspace/build/common/prefix_override:/home/jason/Desktop/STUDY/ART-Driver/workspace/install/common/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/common build --build-base /home/jason/Desktop/STUDY/ART-Driver/workspace/build/common/build install --record /home/jason/Desktop/STUDY/ART-Driver/workspace/build/common/install.log --single-version-externally-managed

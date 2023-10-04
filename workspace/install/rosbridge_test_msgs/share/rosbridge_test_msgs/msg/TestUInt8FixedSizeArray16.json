@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "rosbridge_test_msgs/msg/TestUInt8FixedSizeArray16",
+      "fields": [
+        {
+          "name": "data",
+          "type": {
+            "type_id": 51,
+            "capacity": 16,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "rosbridge_test_msgs/msg/TestUInt8FixedSizeArray16",
+      "hash_string": "RIHS01_6f8f3ff56925b2c1cc1ec7f236fd08f7aea0208548e2674a8c686de235e1362d"
+    }
+  ]
+}

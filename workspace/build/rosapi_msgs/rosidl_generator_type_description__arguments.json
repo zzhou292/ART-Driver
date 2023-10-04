@@ -1,0 +1,35 @@
+{
+  "package_name": "rosapi_msgs",
+  "output_dir": "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_generator_type_description/rosapi_msgs",
+  "idl_tuples": [
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:msg/TypeDef.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/DeleteParam.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/GetActionServers.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/GetParam.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/GetParamNames.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/GetROSVersion.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/GetTime.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/HasParam.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/MessageDetails.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/Nodes.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/NodeDetails.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/Publishers.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/ServiceNode.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/ServiceProviders.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/ServiceRequestDetails.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/ServiceResponseDetails.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/Services.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/ServicesForType.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/ServiceType.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/SetParam.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/Subscribers.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/Topics.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/TopicsAndRawTypes.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/TopicsForType.idl",
+    "/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs/rosidl_adapter/rosapi_msgs:srv/TopicType.idl"
+  ],
+  "include_paths": [
+    "builtin_interfaces:/opt/ros/iron/share/builtin_interfaces",
+    "service_msgs:/opt/ros/iron/share/service_msgs"
+  ]
+}

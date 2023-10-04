@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "rosapi_msgs/srv/Services_Response",
+      "fields": [
+        {
+          "name": "services",
+          "type": {
+            "type_id": 161,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "rosapi_msgs/srv/Services_Response",
+      "hash_string": "RIHS01_e3cda09ef1ac0b8ee5860d9a03a59dfa529e683823384feebe267abd7c516a2d"
+    }
+  ]
+}

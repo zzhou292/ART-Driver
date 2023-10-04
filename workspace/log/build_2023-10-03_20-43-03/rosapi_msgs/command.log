@@ -1,4 +1,0 @@
-Invoking command in '/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs': CMAKE_PREFIX_PATH=/opt/ros/iron /home/jason/.local/bin/cmake --build /home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs -- -j16 -l16
-Invoked command in '/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /home/jason/.local/bin/cmake --build /home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs -- -j16 -l16
-Invoking command in '/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs': CMAKE_PREFIX_PATH=/opt/ros/iron /home/jason/.local/bin/cmake --install /home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs
-Invoked command in '/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /home/jason/.local/bin/cmake --install /home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosapi_msgs

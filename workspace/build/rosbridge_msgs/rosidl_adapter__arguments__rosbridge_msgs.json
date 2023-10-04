@@ -1,7 +1,0 @@
-{
-  "package_name": "rosbridge_msgs",
-  "non_idl_tuples": [
-    "/home/jason/Desktop/STUDY/ART-Driver/workspace/src/rosbridge_suite/rosbridge_msgs:msg/ConnectedClient.msg",
-    "/home/jason/Desktop/STUDY/ART-Driver/workspace/src/rosbridge_suite/rosbridge_msgs:msg/ConnectedClients.msg"
-  ]
-}

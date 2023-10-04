@@ -1,1 +1,0 @@
-Invoking command in '/home/jason/Desktop/STUDY/ART-Driver/workspace/build/rosbridge_msgs': CMAKE_PREFIX_PATH=/opt/ros/iron /home/jason/.local/bin/cmake /home/jason/Desktop/STUDY/ART-Driver/workspace/src/rosbridge_suite/rosbridge_msgs -DCMAKE_INSTALL_PREFIX=/home/jason/Desktop/STUDY/ART-Driver/workspace/install/rosbridge_msgs

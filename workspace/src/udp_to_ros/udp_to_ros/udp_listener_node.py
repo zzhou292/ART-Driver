@@ -42,7 +42,7 @@ class SteeringServoDriver():
 
     def setTargetSteering(self, steering):
         self.target_steering = np.clip(steering, -1.0, 1.0)
-        print(self.target_steering)
+        #print(self.target_steering)
 
 
 class MotorDriver():
@@ -92,8 +92,8 @@ class MotorDriver():
             pass
 
     def setTargetThrottle(self, throttle, braking):
-        self.target_throttle = np.clip(throttle-braking, -1.0, 1.0)
-        print(self.target_throttle)
+        self.target_throttle = np.clip(braking-throttle, -1.0, 1.0)
+        #print(self.target_throttle)
         return self.target_throttle
 
 
@@ -102,7 +102,7 @@ class MotorDriverNode(Node):
         super().__init__('motor_driver')
 
         # update frequencies of this node
-        self.freq = 10.0  # PWM is at 60Hz, so we should not overwrite previous signal too quickly
+        self.freq = 20.0  # PWM is at 60Hz, so we should not overwrite previous signal too quickly
 
         # data that will be used by this class
         #self.stale_timer = 0  # will kill motors if no commands for specific amount of time
@@ -127,8 +127,9 @@ class MotorDriverNode(Node):
     def receive_data_and_update_motors(self):
         data, address = self.sock.recvfrom(12)  # 3 floats = 3 * 4 bytes = 12 bytes
         if data:
-            steer, throttle, brake = struct.unpack('fff', data) 
-            
+            steer, throttle, brake = struct.unpack('fff', data)
+            print(steer)
+            print(throttle)
 
             # ... [Rest of the update_motors method's content] ...
             #self.stale_timer += 1/self.freq

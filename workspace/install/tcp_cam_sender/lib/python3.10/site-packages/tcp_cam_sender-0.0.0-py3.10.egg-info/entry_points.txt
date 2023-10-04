@@ -1,2 +1,0 @@
-[console_scripts]
-tcp_cam_sender = tcp_cam_sender.tcp_cam_sender:main

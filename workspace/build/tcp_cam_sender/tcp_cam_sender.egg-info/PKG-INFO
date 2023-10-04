@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: tcp-cam-sender
-Version: 0.0.0
-Summary: TODO: Package description
-Maintainer: jason
-Maintainer-email: zzhou292@wisc.edu
-License: TODO: License declaration
-Requires-Dist: setuptools

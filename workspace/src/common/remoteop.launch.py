@@ -18,6 +18,10 @@ def generate_launch_description():
         Node(
             package='rosbridge_server',
             executable='rosbridge_websocket'
+        ),
+        Node(
+            package='udp_to_ros',
+            executable='udp_listener'
         )
     ])
 

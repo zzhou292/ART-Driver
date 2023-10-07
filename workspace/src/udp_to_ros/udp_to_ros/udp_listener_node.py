@@ -50,15 +50,15 @@ class MotorDriver():
         # === CONSTANTS ===
         # Pulse width as measured from the RC car receiver in milliseconds
         self.TRIM = 0
-        self.PW_BRAKE = 1880 + self.TRIM #absolute full brake = 1980
-        self.PW_FULL_THROTTLE = 1450 + self.TRIM #absolute full throttle = 1000
-        self.PW_NEUTRAL = 1500 + self.TRIM
+        self.PW_BRAKE = 1100 + self.TRIM #absolute full brake = 1980
+        self.PW_FULL_THROTTLE = 1600 + self.TRIM #absolute full throttle = 1000
+        self.PW_NEUTRAL = 1520 + self.TRIM
         
         # clamp response to achieve target
         self.current_pw = self.PW_NEUTRAL
         self.current_throttle = 0.0
         self.target_throttle = 0.0
-        self.MAX_THROTTLE_STEP = .05  # TODO find good value
+        self.MAX_THROTTLE_STEP = 1000.0  # TODO find good value
 
         self.forward = True  # whether vehicle is in forward or reverse mode
 
@@ -92,7 +92,7 @@ class MotorDriver():
             pass
 
     def setTargetThrottle(self, throttle, braking):
-        self.target_throttle = np.clip(braking-throttle, -1.0, 1.0)
+        self.target_throttle = np.clip(throttle-braking, -1.0, 1.0)
         #print(self.target_throttle)
         return self.target_throttle
 

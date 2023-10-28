@@ -4,3 +4,7 @@
 [submodule "workspace/src/usb_cam"]
 	path = workspace/src/usb_cam
 	url = https://github.com/ros-drivers/usb_cam.git
+[submodule "workspace/src/nmea_navsat_driver"]
+	path = workspace/src/nmea_navsat_driver
+	url = https://github.com/ros-drivers/nmea_navsat_driver.git
+	branch = ros2
